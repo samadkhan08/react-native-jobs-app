@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "dcf933f7-7b1b-442b-90a7-bb12c53b5024"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/dcf933f7-7b1b-442b-90a7-bb12c53b5024"
+    },
+    "android": {},
+    "ios": {}
   }
 }
